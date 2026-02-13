@@ -172,7 +172,7 @@ This project simulates how a healthcare or insurance company might:
 Data | Analytics | Machine Learning  
 
 LinkedIn: *[www.linkedin.com/in/
-dhruv-sharma2299]*  
+dhruv-sharma2299/]*  
 Tableau Public: *[https://public.tableau.com/app/profile/dhruv.sharma6989]*  
 
 ---
